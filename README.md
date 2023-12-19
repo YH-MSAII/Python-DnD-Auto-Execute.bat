@@ -16,6 +16,7 @@ Notes
 
 2. Any startup process is possible by specifying an exe file other than python.exe or pyinstaller,
    but if the path environment variable is not set,the exe file must be defined with an absolute path.
+   In principle, this release version uses a format that can be executed at a command prompt (not a Conda prompt).
    Please customize as you please.
    I do not know. LOL
 
